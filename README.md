@@ -35,10 +35,13 @@ Your Kitura app is up and running as a Docker image. Open your browser to http:/
 Deploy to Google Cloud Run
 
 1) Upload to Container Registry
+
 gcloud builds submit --tag gcr.io/<my project ID>/hellokituragcr
+
 gcloud container images list
 
 2) Deploy Container to Google Cloud Run  
+
 gcloud beta run deploy --image gcr.io/<my project ID>/hellokituragcr --memory 512M --platform managed --allow-unauthenticated
 
 
