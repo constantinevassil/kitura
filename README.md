@@ -4,6 +4,7 @@
 Creating a Kitura project with the macOS App
 1) Visit
 https://www.kitura.io/app.html
+
 Download and install Kitura - macOS App
 
 2) Run Kitura - macOS App.
