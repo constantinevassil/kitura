@@ -14,7 +14,7 @@ Use name hellokituragcr (small caps)
 Starter: This builds on top of Skeleton and provides a full-fledged server framework that includes logging, monitoring and health checks. It also provides configuration files for Docker, Kubernetes and more.
 
 
-3) open the terminal and perform the command:
+3) Open the terminal and perform the command:
 cd hellokituragcr
 
 4) Install Kitura CLI
