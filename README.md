@@ -1,4 +1,4 @@
-# Kitura - deplyment on Google Cloud Run
+# Kitura - deployment on Google Cloud Run
 
 
 Creating a Kitura project with the macOS App
