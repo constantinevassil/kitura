@@ -15,19 +15,25 @@ Starter: This builds on top of Skeleton and provides a full-fledged server frame
 
 
 3) Open the terminal and perform the command:
+
 cd hellokituragcr
 
 4) Install Kitura CLI
+
 brew tap ibm-swift/kitura
+
 brew install kitura
 
 This will initialize your CLI environment:
+
 kitura idt
 
-This will take a few moments to build a Docker image
+This will take a few moments to build a Docker image:
+
 kitura build
 
 Now run kitura run. This builds then runs a hellokituragcr-swift-run image optimized for production usage.
+
 kitura run
 
 Your Kitura app is up and running as a Docker image. Open your browser to http://localhost:8080/ to see it running
